@@ -1,0 +1,22 @@
+{
+    "seashell" : {
+        "data_path" : {
+            "local" : "20211124_seashell",
+            "server" : "/srv/ceph/share-all/aomip/6983008_seashell"
+        },   
+        "projs_name" : "20211124_seashell_{:04}.tif",
+        "projs_rows" : 2368,
+        "projs_cols" : 2240,
+        "num_projections" : 721
+    },
+    "htc" : {
+        "data_path" : {
+            "local" : "/Users/boeykaizhe/Documents/TUM/htc2022_test_data",
+            "server" : "/srv/ceph/share-all/aomip/htc2022_test_data"
+        },   
+        "phantom1a" : "htc2022_01a_full.mat",
+        "phantom1b" : "htc2022_01b_full.mat",
+        "phantom2a" : "htc2022_02a_full.mat",
+        "groundtruth" : "/Users/boeykaizhe/Documents/TUM/groundtruth/htc2022_01b_recon.tif"
+    }
+}

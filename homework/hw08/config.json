@@ -1,0 +1,70 @@
+{
+    "seashell" : {
+        "data_path" : {
+            "local" : "20211124_seashell",
+            "server" : "/srv/ceph/share-all/aomip/6983008_seashell"
+        },   
+        "projs_name" : "20211124_seashell_{:04}.tif",
+        "projs_rows" : 2368,
+        "projs_cols" : 2240,
+        "num_projections" : 721
+    },
+    "htc" : {
+        "data_path" : {
+            "local" : "/Users/boeykaizhe/Documents/TUM/htc2022_test_data",
+            "server" : "/srv/ceph/share-all/aomip/htc2022_test_data"
+        },   
+        "phantom1a" : "htc2022_01a_full.mat",
+        "phantom1b" : "htc2022_01b_full.mat",
+        "phantom1c" : "htc2022_01c_full.mat",
+        "phantom2a" : "htc2022_02a_full.mat",
+        "phantom2b" : "htc2022_02b_full.mat",
+        "phantom2c" : "htc2022_02b_full.mat",
+        "phantom3a" : "htc2022_03a_full.mat",
+        "phantom3b" : "htc2022_03b_full.mat",
+        "phantom3c" : "htc2022_03c_full.mat",
+        "phantom4a" : "htc2022_04a_full.mat",
+        "phantom4b" : "htc2022_04b_full.mat",
+        "phantom4c" : "htc2022_04c_full.mat",
+        "phantom5a" : "htc2022_05a_full.mat",
+        "phantom5b" : "htc2022_05b_full.mat",
+        "phantom5c" : "htc2022_05b_full.mat",
+        "phantom6a" : "htc2022_06a_full.mat",
+        "phantom6b" : "htc2022_06b_full.mat",
+        "phantom6c" : "htc2022_06c_full.mat",
+        "phantom7a" : "htc2022_07a_full.mat",
+        "phantom7b" : "htc2022_07b_full.mat",
+        "phantom7c" : "htc2022_07c_full.mat",
+        "groundtruth1a" : "/Users/boeykaizhe/Documents/TUM/groundtruth/htc2022_01a_recon.tif",
+        "groundtruth1b" : "/Users/boeykaizhe/Documents/TUM/groundtruth/htc2022_01b_recon.tif",
+        "groundtruth1c" : "/Users/boeykaizhe/Documents/TUM/groundtruth/htc2022_01c_recon.tif",
+        "groundtruth2a" : "/Users/boeykaizhe/Documents/TUM/groundtruth/htc2022_02a_recon.tif",
+        "groundtruth2b" : "/Users/boeykaizhe/Documents/TUM/groundtruth/htc2022_02b_recon.tif",
+        "groundtruth2c" : "/Users/boeykaizhe/Documents/TUM/groundtruth/htc2022_02c_recon.tif",
+        "groundtruth3a" : "/Users/boeykaizhe/Documents/TUM/groundtruth/htc2022_03a_recon.tif",
+        "groundtruth3b" : "/Users/boeykaizhe/Documents/TUM/groundtruth/htc2022_03b_recon.tif",
+        "groundtruth3c" : "/Users/boeykaizhe/Documents/TUM/groundtruth/htc2022_03c_recon.tif",
+        "groundtruth4a" : "/Users/boeykaizhe/Documents/TUM/groundtruth/htc2022_04a_recon.tif",
+        "groundtruth4b" : "/Users/boeykaizhe/Documents/TUM/groundtruth/htc2022_04b_recon.tif",
+        "groundtruth4c" : "/Users/boeykaizhe/Documents/TUM/groundtruth/htc2022_04c_recon.tif",
+        "groundtruth5a" : "/Users/boeykaizhe/Documents/TUM/groundtruth/htc2022_05a_recon.tif",
+        "groundtruth5b" : "/Users/boeykaizhe/Documents/TUM/groundtruth/htc2022_05b_recon.tif",
+        "groundtruth5c" : "/Users/boeykaizhe/Documents/TUM/groundtruth/htc2022_05c_recon.tif",
+        "groundtruth6a" : "/Users/boeykaizhe/Documents/TUM/groundtruth/htc2022_06a_recon.tif",
+        "groundtruth6b" : "/Users/boeykaizhe/Documents/TUM/groundtruth/htc2022_06b_recon.tif",
+        "groundtruth6c" : "/Users/boeykaizhe/Documents/TUM/groundtruth/htc2022_06c_recon.tif",
+        "groundtruth7a" : "/Users/boeykaizhe/Documents/TUM/groundtruth/htc2022_07a_recon.tif",
+        "groundtruth7b" : "/Users/boeykaizhe/Documents/TUM/groundtruth/htc2022_07b_recon.tif",
+        "groundtruth7c" : "/Users/boeykaizhe/Documents/TUM/groundtruth/htc2022_07c_recon.tif"
+    },
+    "mayo_clinical" : {
+        "data_path" : {
+            "local" : "/Users/boeykaizhe/Documents/TUM/ftp/mayo_clinical/out",
+            "server" : "/srv/ceph/share-all/aomip/mayo_clinical/out"
+        },
+        "L096" : "L096_flat_fan_projections_qd.tif",
+        "L143" : "L143_flat_fan_projections_qd.tif",
+        "L506" : "L506_flat_fan_projections_qd.tif",
+        "L333" : "L333_flat_fan_projections_fd.tif"
+    }
+}
